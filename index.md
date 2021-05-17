@@ -1,32 +1,45 @@
-## Portfolio
+## Final Project
 
 
 ---
 
-### [Population Density Map of Maryland]()
-Made using R Studio
-
-IT works
+### [Map 1]()
 
 
-<img src="images/Md_map1024_1.jpg"/>
+<img src="images/Lead_Baltimore-1.jpg"/>
 
 ---
-### [Heatmap of Global Earthquakes from 1971 - 2015]()
-Made using QGIS
+### [Map 2]()
 
-<img src="images/Lewis_Earthquake_Heatmap_1971-2015.gif?raw=true"/>
+
+<img src="images/Race_vs_lead_bivar-1.jpg"/>
 
 ---
-### [Origin of Incoming UMBC Freshmen 2019]()
-Made using ArcGIS
+### [Map 3]()
 
-<img src="images/0001.jpg?raw=true"/>
+
+<img src="images/Race_vs_housing.jpg"/>
 
 ---
 
-<a href="https://github.com/Ridgeway/Ridgeway.github.io/blob/master/lab_6" title="About Me">Lab 6</a>
+### [Map 4]()
 
+
+<img src="images/Brownfeild_vs_race-1.jpg"/>
+
+---
+
+### [Map 5]()
+
+
+<img src="images/Bresco-1.jpg"/>
+
+---
+
+### [Map 6]()
+
+
+<img src="images/pop_change_vs_lead-1.jpg"/>
 
 
 ---
