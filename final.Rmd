@@ -1,0 +1,31 @@
+---
+title: "Final Project"
+author: "Matthew Lewis"
+date: "5/16/2021"
+output: html_document
+---
+
+```{r}
+#For my first map I downloaded a map of maryland census tracts from planning.baltimorecity.gov and extracted only baltimore city. From here I downloaded racal data from the census website, joined it to the Baltimore shapefile, and symbolized it to depict the racial breakdown of each census tract. Then created a depiction of the white L and black butterfly to overlay to show how that matches up with the racial breakdown.
+```
+
+```{r}
+#For my second map I used the Baltimore shapefile and again joined it with lead poisoning data from policymap. Then I downloaded racial data from the census website and joined it to the Baltimore shapefile via census tracts. Then I created a bivariate map using the guide from lab 6: Bivariate choropleth maps in QGIS - BNHR. which is done by symbolizing the data with only 3 classes for both factors, then overlaying them with the top map set to “multiply” under the layer rendering settings. 
+```
+
+```{r}
+#For my third map I used the same Baltimore shapefile with racial data still attached from the previous map, but this time I joined median home data acquired from policymap.com to the file via census tracts and created a bivariate map the same way as in map 2.
+```
+
+```{r}
+#For my fourth map I created a map showing racial breakdown in Baltimore city with additional classes to give a layered view. Then i downloaded a shapefile showing brownfield sites from the Environmental Data Initiative, Data Portal - Data Package Summary | Environmental Data Initiative (EDI) (edirepository.org). And overlaid it over the baltimore shapefile and trimmed away any brownfield sites that did not fall within baltimore city. Then I used select by location to identify how many sites were in both white and black tracts. 
+```
+
+```{r}
+#For my fifth map I recreated a map of maryland lead poisoning risk by census tract by using the maryland shapefile provided by planning.baltimoirecity.gov and the lead poisoning data from policymap.com but this time i did not limit the frame to just baltimore. Then I placed a point where the Wheelabrator Incinerator is located and used the buffer tool to measure a five and ten mile radius around the incinerator.
+```
+
+```{r}
+#For my sixth map I downloaded population data from the census website for 2020 and 2000 and subtracted to get the effective population change. Joined this data to the baltimore census tract shapefile along with lead data from policypam.com and created a bivariate map, this time with colour recommendations from colorBrewer.
+```
+
